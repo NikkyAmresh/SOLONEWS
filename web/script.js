@@ -102,7 +102,7 @@ $.ajax({
 
     })
 
-    news("in","technology","","")
+    news("in","technology","techcrunch","")
 
     $("iframe").on('load',function(){ 
 
