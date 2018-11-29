@@ -102,7 +102,7 @@ $.ajax({
 
     })
 
-    news("us","technology","techcrunch","Donald Trump")
+    news("in","technology","","")
 
     $("iframe").on('load',function(){ 
 
