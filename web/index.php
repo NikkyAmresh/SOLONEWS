@@ -3,6 +3,8 @@
 
    <head>
        <title>SOLONEWS</title>
+<meta name="theme-color" content="#37474F">
+<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
         <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         
         <script>console.log=function(){}
