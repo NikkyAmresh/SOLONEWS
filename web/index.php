@@ -3,7 +3,11 @@
 
    <head>
        <title>SOLONEWS</title>
-<meta name="theme-color" content="#37474F">
+<meta name="theme-color" content="#37474F"> <meta name="description" content="Real-time news across 100+ countries,Search your news with keyword ">
+
+  <meta name="keywords" content="News, Real Time ">
+
+  <meta name="author" content="Nikky Amresh ">
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
         <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         
@@ -236,7 +240,10 @@
 <option value='xinhua-net'>Xinhua Net</option>
 <option value='ynet'>Ynet</option></select>
         <br>Visitor number : <img  src='http://online-visit-counter.com/cg.php?t=MTQzNDA0OQ==' border='0' alt='page visit count'>
-    <br><small>Powered by newsapi.org</small>
+    <br>
+   <small>Copyright &copy; Nikky Amresh </small>
+   <small> (Powered by newsapi.org)</small>
+   
     <div id="s">India/Test</div>
   </div>
   <div class="container" id="popup"> <h3 id="ittl">Your news is loading....</h3> <span onclick="$(this).parent().toggle(300)">CLOSE ❌</span>
