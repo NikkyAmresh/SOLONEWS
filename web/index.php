@@ -3,7 +3,7 @@
 
    <head>
        <title>SOLONEWS</title>
-<meta name="theme-color" content="#37474F"> <meta name="description" content="Real-time news across 100+ countries,Search your news with keyword ">
+<meta name="theme-color" content="#37474F"> <meta name="description" content="Real-time news across 100+ countries, Search your favourite news with keywords ">
 
   <meta name="keywords" content="News, Real Time ">
 
